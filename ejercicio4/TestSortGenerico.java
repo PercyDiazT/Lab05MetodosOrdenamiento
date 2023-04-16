@@ -8,7 +8,7 @@ public class TestSortGenerico {
 		Golosinas[] arreglo4 = {new Golosinas(1,"MIlKY",8), 
 				new Golosinas(1,"PAPAS",2) };
 
-		System.out.println("MERGESORT");
+		System.out.println("SHAKERSORT");
 		System.out.println("Integer");
 		GenericSort.shakerSort(arreglo1);
 		showArray(arreglo1);

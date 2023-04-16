@@ -8,7 +8,7 @@ public class TestSortGenerico {
 		Golosinas[] arreglo4 = {new Golosinas(1,"MIlKY",8), 
 				new Golosinas(1,"PAPAS",2) };
 
-		System.out.println("MERGESORT");
+		System.out.println("BRICKSORT");
 		System.out.println("Integer");
 		GenericSort.brickSort(arreglo1);
 		showArray(arreglo1);
